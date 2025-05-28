@@ -17,14 +17,14 @@ This platform aims to bridge the gap between scholarship providers and students 
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript  
-- Backend: (mention backend tech if any, e.g., Node.js, PHP)  
-- Database: (mention database tech if used)
+- Backend: PHP
+- Database: MySQL
 
 ## How to Run
-(Provide basic instructions for running or deploying the project)
+use localhost
 
 ## Contact
-For questions or collaboration, reach out at: [your-email@example.com] or visit my GitHub profile.
+For questions or collaboration, reach out at: marfridahallia@gmail.com or visit my GitHub profile.
 
 ---
 
